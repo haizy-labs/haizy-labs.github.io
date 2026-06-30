@@ -11,7 +11,7 @@ The Software operates under a "Freemium" model.
 - **Pro Features:** Certain advanced features require a valid paid subscription or perpetual license ("Pro License").
 
 ### 1.2 Pro License and Refunds
-Upon purchasing a Pro License through an authorized marketplace (e.g., JetBrains Marketplace), you are granted a non-exclusive, non-transferable license to access the Pro Features. 
+Upon purchasing a Pro License through an authorized marketplace (e.g., JetBrains Marketplace or Atlassian Marketplace), you are granted a non-exclusive, non-transferable license to access the Pro Features. 
 - **Refunds and Cancellations:** Subscription renewals, cancellations, and refund requests (including any statutory cooling-off periods, such as the EU 14-day right of withdrawal) are governed entirely by the policies of the third-party marketplace where the purchase was made.
 
 ## 2. Restrictions
@@ -34,7 +34,7 @@ The Software utilizes the open-source Mermaid.js library (licensed under the MIT
 ## 4. Privacy and Data Collection
 The Software operates primarily as a local, offline tool.
 - **We do not collect, store, or transmit your diagram content, code, or personal documents to our servers.**
-- Any license verification requests are handled directly between your IDE and the official marketplace servers (e.g., JetBrains).
+- Any license verification requests are handled directly between your IDE and the official marketplace servers (e.g., JetBrains or Atlassian).
 - We may collect anonymous, aggregated telemetry data (such as crash logs) solely to improve the Software. **You will be provided with a clear opt-out mechanism to disable telemetry data collection at any time.**
 
 ## 5. Disclaimer of Warranty
