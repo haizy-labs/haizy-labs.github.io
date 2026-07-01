@@ -32,13 +32,17 @@ Available now on the VS Code Marketplace.
 *Design your diagrams directly in Figma.* 
 <img src="./assets/mermaid-figma.gif" width="600"> 
 
+### Atlassian Confluence 
+*Embed and edit Mermaid diagrams directly in your Confluence pages.* 
+<img src="./assets/mermaid-confluence.gif" width="600"> 
+
 ## 💳 Pricing 
 
 Mermaid Editor Pro operates on a **Freemium** model. 
 - **Free:** View diagrams, switch themes, and basic SVG export. 
 - **Pro ($5/month or $50/year):** Unlocks visual node editing, PDF export, and high-res PNG export. 
 
-*Purchases are handled securely via Paddle or JetBrains Marketplace.* 
+*Purchases are handled securely via Paddle, JetBrains Marketplace, or Atlassian Marketplace.* 
 
 ## ⚖️ Legal & Policies 
 
