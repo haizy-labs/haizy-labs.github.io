@@ -50,6 +50,7 @@ To ensure compliance and protect your rights, please review our policies hosted 
 - [End User License Agreement (EULA)](./LICENSE-EULA.md) 
 - [Privacy Policy](https://haizy-labs.github.io/privacy.html) 
 - [Refund Policy](https://haizy-labs.github.io/refund.html) 
+- [Security Policy](https://haizy-labs.github.io/security.html) 
 
 --- 
 *© 2026 Haizy Labs. All rights reserved.* 
