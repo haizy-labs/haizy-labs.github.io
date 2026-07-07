@@ -11,7 +11,7 @@ The Software operates under a "Freemium" model.
 - **Pro Features:** Certain advanced features require a valid paid subscription or perpetual license ("Pro License").
 
 ### 1.2 Pro License and Refunds
-Upon purchasing a Pro License through an authorized marketplace (e.g., JetBrains Marketplace or Atlassian Marketplace), you are granted a non-exclusive, non-transferable license to access the Pro Features. 
+Upon purchasing a Pro License through an authorized marketplace (e.g., VS Code Marketplace, JetBrains Marketplace, Figma Community, or Atlassian Marketplace), you are granted a non-exclusive, non-transferable license to access the Pro Features. 
 - **Refunds and Cancellations:** Subscription renewals, cancellations, and refund requests (including any statutory cooling-off periods, such as the EU 14-day right of withdrawal) are governed entirely by the policies of the third-party marketplace where the purchase was made.
 
 ## 2. Restrictions
